@@ -8,6 +8,7 @@
 	<name>HNUST</name>
 	<url>http://maven.apache.org</url>
 
+    <!-- 1 -->
 	<properties>
 		<!-- spring版本号 -->
 		<spring.version>4.0.2.RELEASE</spring.version>
